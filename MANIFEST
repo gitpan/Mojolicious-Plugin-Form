@@ -1,0 +1,13 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+README
+cpanfile
+dist.ini
+lib/Mojolicious/Plugin/Form.pm
+lib/Mojolicious/Plugin/Form/Base.pm
+t/00_use.t
+t/release-pod-syntax.t
