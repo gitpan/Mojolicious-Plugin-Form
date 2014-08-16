@@ -28,7 +28,7 @@ resources:
   bugtracker: https://github.com/wollmers/Mojolicious-Plugin-Form/issues
   homepage: https://github.com/wollmers/Mojolicious-Plugin-Form
   repository: https://github.com/wollmers/Mojolicious-Plugin-Form.git
-version: '0.004'
+version: '0.005'
 x_contributors:
   - 'Helmut Wollmersdorfer <helmut.wollmersdorfer@fixpunkt.de>'
   - 'Helmut Wollmersdorfer <helmut@wollmersdorfer.at>'
